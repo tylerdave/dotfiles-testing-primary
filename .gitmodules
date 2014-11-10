@@ -1,0 +1,3 @@
+[submodule "submodules/sub1"]
+	path = submodules/sub1
+	url = git@github.com:tylerdave/dotfiles-testing.git
